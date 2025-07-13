@@ -4,7 +4,7 @@
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
 
-    mobile-nixos.url = "github:mobile-nixos/mobile-nixos";
+    mobile-nixos.url = "github:samueldr-wip/mobile-nixos-wip/fix/drop-composeConfig";
     mobile-nixos.flake = false;
   };
 

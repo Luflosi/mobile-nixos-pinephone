@@ -3,16 +3,17 @@
     "mobile-nixos": {
       "flake": false,
       "locked": {
-        "lastModified": 1752152044,
-        "narHash": "sha256-tUNKFsWcOn5eGJyKtD7Mow/4F5Dz9RUCsgP2JWyL4bA=",
-        "owner": "mobile-nixos",
-        "repo": "mobile-nixos",
-        "rev": "b6fd6ce5d3b69d5745039982326ef788a5851a50",
+        "lastModified": 1752428978,
+        "narHash": "sha256-xBkxB3KGDUQRpd2nSqJvw6vJhse4Lee4OaeJH6WvNDM=",
+        "owner": "samueldr-wip",
+        "repo": "mobile-nixos-wip",
+        "rev": "3bf82ba1a96e6261cb4606defe2c9affff504faf",
         "type": "github"
       },
       "original": {
-        "owner": "mobile-nixos",
-        "repo": "mobile-nixos",
+        "owner": "samueldr-wip",
+        "ref": "fix/drop-composeConfig",
+        "repo": "mobile-nixos-wip",
         "type": "github"
       }
     },
